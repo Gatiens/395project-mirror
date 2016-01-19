@@ -6,14 +6,14 @@ A. 5 Types of Users
 
 1. **Basic User**
 2. **EPL Staff**
-  a. Write access to assigned areas only
+  1. Write access to assigned areas only
 3. **Manager / Team lead**
-  a. Department wide write access
+  1. Department wide write access
 4. **Business Plan Manager**
-  a. Write access to all departments
+  1. Write access to all departments
 5. **Administrator**
-  a. Full write access
-  b. Ability to create users and groups
+  1. Full write access
+  2. Ability to create users and groups
   
 B. Login
 ------
@@ -24,9 +24,9 @@ C. User Homepage
 -------------
 1. Show user's name and position within the EPL.
 2. Show timeline:
-  a. Include actions the user is involved in
-  b. Include strategic goals
-  c. Include business plan goals
+  1. Include actions the user is involved in
+  2. Include strategic goals
+  3. Include business plan goals
 3. Search bar to search for documents.
 4. Show Notifications.
 
