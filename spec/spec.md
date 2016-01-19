@@ -35,14 +35,14 @@ C. User Homepage
 User Stories
 ============
 1. As a basic user, I want to view all files.
-  - Refers to A1 in Specifications
+  - *Refers to A1 in Specifications*
 2. As an EPL staff member, I want to read all files and edit content to which I'm involved in.
-  - Refers to A2 in Specifications
+  - *Refers to A2 in Specifications*
 3. As a Manager / Team Lead, I want to view and edit all files within my department.
-  - Refers to A3 in Specifications
+  - *Refers to A3 in Specifications*
 4. As a Business Plan Manager, I want to edit current goals and create new goals across all departments.
-  - Refers to A4 in Specifications
+  - *Refers to A4 in Specifications*
 5. As an Administrator, I want to have full read and write access.
-  - Refers to A5 in Specifications
+  - *Refers to A5 in Specifications*
 6. As an Administration, I want to create and assign new users and groups.
-  - Refers to A5 in Specifications
+  - *Refers to A5 in Specifications*
