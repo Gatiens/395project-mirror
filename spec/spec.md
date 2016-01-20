@@ -52,5 +52,5 @@ User Stories
   - *Refer to C2 in Specifications*
 9. As a user, I want to search for documents quickly.
   - *Refer to C3 in Specifications*
-10. As a user, I want to know when due dates are upcoming for what actions.
+10. As a user, I want to know when due dates are upcoming for recent actions.
   - *Refer to C4 in Specifications*
