@@ -46,3 +46,11 @@ User Stories
   - *Refers to A5 in Specifications*
 6. As an Administration, I want to create and assign new users and groups.
   - *Refers to A5 in Specifications*
+7. As a user, I want to be able to log into my account.
+  - *Refer to B1 in Specifications*
+8. As a user, I want to view a timeline for upcoming actions that are taking place.
+  - *Refer to C2 in Specifications*
+9. As a user, I want to search for documents quickly.
+  - *Refer to C3 in Specifications*
+10. As a user, I want to know when due dates are upcoming for recent actions.
+  - *Refer to C4 in Specifications*
