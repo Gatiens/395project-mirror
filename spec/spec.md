@@ -29,6 +29,26 @@ C. User Homepage
   3. Include business plan goals
 3. Search bar to search for documents.
 4. Show Notifications.
+  1. Notify user when they are assigned to the action
+  2. Notify Business Plan Manager and appopraite Team Lead or Manager when the status of the action is changed.
+  3. Email notifications (Expanding our software)
+  4. 
+
+D. Goal/Task Info Page
+----------------------
+1. Ability to edit info if allowed
+2. Show action info
+3. Indicate if this action is part of the business plan, if it is the number it coresponds to.
+4. Show due date
+5. Show Team Lead or Manager responsible for action and other colaberators for the action.
+6. Ability to update the status of the goal if Manager/Team lead or Business Plan Manager to:
+  1. Incomplete - Action has not been started to be worked on
+  2. In Progress - Action is currently being worked on
+  3. Complete - Action has been completed.
+7. Indicate a "Success Measure" to know what most be completed for the action to be complete.
+8. Additional Notes
+9. Admin, Business Plan Manager, and Manager/Team Lead can add aditional fields to a action if the believe it is relevant.
+  1. ie. budget
 
 ***
 
@@ -54,3 +74,4 @@ User Stories
   - *Refer to C3 in Specifications*
 10. As a user, I want to know when due dates are upcoming for recent actions.
   - *Refer to C4 in Specifications*
+11. 
