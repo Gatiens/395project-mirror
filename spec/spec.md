@@ -4,8 +4,8 @@ A. 5 Types of Users
 ----------------
 *All users have read access*
 
-1. **Basic User**
-2. **EPL Staff**
+1. **Read-Only User**
+2. **Basic User**
   1. Write access to assigned areas only
 3. **Manager / Team lead**
   1. Department wide write access
@@ -32,7 +32,6 @@ C. User Homepage
   1. Notify user when they are assigned to the action
   2. Notify Business Plan Manager and appopraite Team Lead or Manager when the status of the action is changed.
   3. Email notifications (Expanding our software)
-  4. 
 
 D. Goal/Task Info Page
 ----------------------
@@ -54,33 +53,29 @@ D. Goal/Task Info Page
 
 User Stories
 ============
-1. As a basic user, I want to view all files.
+1. As a Read-Only user, I want to view the business plan and actions.
   - *Refers to A1 in Specifications*
-2. As an EPL staff member, I want to read all files and edit content to which I'm involved in.
+2. As a Basic user, I want to read all files and edit content to which I'm involved in.
   - *Refers to A2 in Specifications*
 3. As a Manager / Team Lead, I want to view and edit all files within my department.
   - *Refers to A3 in Specifications*
 4. As a Business Plan Manager, I want to edit current goals and create new goals across all departments.
   - *Refers to A4 in Specifications*
-5. As an Administrator, I want to have full read and write access.
+5. As an Administration, I want to create and assign new users and groups.
   - *Refers to A5 in Specifications*
-6. As an Administration, I want to create and assign new users and groups.
-  - *Refers to A5 in Specifications*
-7. As a user, I want to be able to log into my account.
-  - *Refer to B1 in Specifications*
-8. As a user, I want to view a timeline for upcoming actions that are taking place.
-  - *Refer to C2 in Specifications*
-9. As a user, I want to search for documents quickly.
-  - *Refer to C3 in Specifications*
-10. As a user, I want to know when due dates are upcoming for recent actions.
-  - *Refer to C4 in Specifications*
-11. As a Team Lead/Mananger or Business Plan Manager, I want to be able to edit and add new actions to the business plan including new fields.
-  - *Refer to D1 and D9 in Specifications*
-12. As a user, I want to view all busineess plan actions.
-  - *Refer to D2 in Specifications*
-13. As a user, I want to view everyone that is involved in the completion of an action.
-  - *Refer to D5 in Specifications*
-14. As a user, I want to view the current status of an action.
-  - *Refer to D6 in Specifications*
-15. As a user, I want to know what must be completed for an action to be complete.
-  - *Refer to D7 in Specifications*
+6. As a user, I want to be able to log into my account.
+  - *Refers to B1 in Specifications*
+7. As a user, I want to view a timeline for upcoming actions.
+  - *Refers to C2 in Specifications*
+8. As a user, I want to search for keywords quickly.
+  - *Refers to C3 in Specifications*
+9. As a user, I want to know when due dates are upcoming for recent actions.
+  - *Refers to C4 in Specifications*
+10. As a Team Lead/Mananger or Business Plan Manager, I want to be able to edit and add new actions to the business plan including new fields.
+  - *Refers to D1 and D9 in Specifications*
+11. As a user, I want to view everyone that is involved in the completion of an action.
+  - *Refers to D5 in Specifications*
+12. As a user, I want to view the current status of an action.
+  - *Refers to D6 in Specifications*
+13. As a user, I want to know the requirements for an action.
+  - *Refers to D7 in Specifications*
