@@ -74,4 +74,13 @@ User Stories
   - *Refer to C3 in Specifications*
 10. As a user, I want to know when due dates are upcoming for recent actions.
   - *Refer to C4 in Specifications*
-11. 
+11. As a Team Lead/Mananger or Business Plan Manager, I want to be able to edit and add new actions to the business plan including new fields.
+  - *Refer to D1 and D9 in Specifications*
+12. As a user, I want to view all busineess plan actions.
+  - *Refer to D2 in Specifications*
+13. As a user, I want to view everyone that is involved in the completion of an action.
+  - *Refer to D5 in Specifications*
+14. As a user, I want to view the current status of an action.
+  - *Refer to D6 in Specifications*
+15. As a user, I want to know what must be completed for an action to be complete.
+  - *Refer to D7 in Specifications*
