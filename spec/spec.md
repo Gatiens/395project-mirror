@@ -62,42 +62,54 @@ User Stories
 
 As a Read-Only user, I want to view all Buisness Plan objections and Business Plan actions
   - *Refers to A1.1 in Specifications*
+
 As a Read-Only user, I want to view all team / department goals
   - *Refers to A1.2 in Specifications*
 
 As a Basic user, I want to update the status field of goals assigned to them
   - *Refers to A2.1 in Specifications*
+
 As a Basic user, I want to view all other team / department goals
   - *Refers to A2.2 in Specifications*
 
 As a Team / Department user, I want to create, modify, and delete their own team / department goals
   - *Refers to A3.1 in Specifications*
+
 As a Team / Department user, I want to view all other team / department goals
   - *Refers to A3.2 in Specifications*
 
 As a Business Plan user, I want to create, modify, and delete Business Plan objectives and Business Plan actions
   - *Refers to A4.1 in Specifications*
+
 As a Business Plan user, I want to create, modify, and delete any team / departmental goals
   - *Refers to A4.2 in Specifications*
 
 As an Administrator, I want to create, modify, and delete Business Plan objectives and Business Plan actions
   - *Refers to A5.1 in Specifications*
+
 As an Administrator, I want to create, modify, and delete any team / departmental goals
   - *Refers to A5.2 in Specifications*
+
 As an Administrator, I want to create, modify, and delete users and groups
   - *Refers to A5.3 in Specifications*
 
 As any user, I want to be able to log into my account.
   - *Refers to B1 in Specifications*
+
 As any user, I want to view a timeline for upcoming actions.
   - *Refers to C2 in Specifications*
+
 As any user, I want to search for keywords quickly.
   - *Refers to C3 in Specifications*
+
 As any user, I want to know when due dates are upcoming for recent actions.
   - *Refers to C4 in Specifications*
+
 As any user, I want to view everyone that is involved in the completion of an action.
   - *Refers to D5 in Specifications*
+
 As any user, I want to view the current status of an action.
   - *Refers to D6 in Specifications*
+
 As any user, I want to know the requirements for an action.
   - *Refers to D7 in Specifications*
