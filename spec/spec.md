@@ -4,16 +4,22 @@ A. 5 Types of Users
 ----------------
 *All users have read access*
 
-1. **Read-Only User**
-2. **Basic User**
-  1. Write access to assigned areas only
-3. **Manager / Team lead**
-  1. Department wide write access
-4. **Business Plan Manager**
-  1. Write access to all departments
+1. **Read-Only user**
+  1. Can view all Buisness Plan objections and Business Plan actions
+  1. Can view all team / department goals
+2. **Basic user**
+  1. Can update the status field of goals assigned to them
+  2. Can view all other team / department goals
+3. **Team / Department Lead**
+  1. Can create, modify, and delete their own team / department goals
+  2. Can view all other team / department goals
+4. **Business Plan Lead**
+  1. Can create, modify, and delete Business Plan objectives and Business Plan actions
+  2. Can create, modify, and delete any team / departmental goals
 5. **Administrator**
-  1. Full write access
-  2. Ability to create users and groups
+  1. Can create, modify, and delete Business Plan objectives and Business Plan actions
+  2. Can create, modify, and delete any team / departmental goals
+  3. Can create, modify, and delete users and groups
   
 B. Login
 ------
@@ -53,29 +59,45 @@ D. Goal/Task Info Page
 
 User Stories
 ============
-1. As a Read-Only user, I want to view the business plan and actions.
-  - *Refers to A1 in Specifications*
-2. As a Basic user, I want to read all files and edit content to which I'm involved in.
-  - *Refers to A2 in Specifications*
-3. As a Manager / Team Lead, I want to view and edit all files within my department.
-  - *Refers to A3 in Specifications*
-4. As a Business Plan Manager, I want to edit current goals and create new goals across all departments.
-  - *Refers to A4 in Specifications*
-5. As an Administration, I want to create and assign new users and groups.
-  - *Refers to A5 in Specifications*
-6. As a user, I want to be able to log into my account.
+
+As a Read-Only user, I want to view all Buisness Plan objections and Business Plan actions
+  - *Refers to A1.1 in Specifications*
+As a Read-Only user, I want to view all team / department goals
+  - *Refers to A1.2 in Specifications*
+
+As a Basic user, I want to update the status field of goals assigned to them
+  - *Refers to A2.1 in Specifications*
+As a Basic user, I want to view all other team / department goals
+  - *Refers to A2.2 in Specifications*
+
+As a Team / Department user, I want to create, modify, and delete their own team / department goals
+  - *Refers to A3.1 in Specifications*
+As a Team / Department user, I want to view all other team / department goals
+  - *Refers to A3.2 in Specifications*
+
+As a Business Plan user, I want to create, modify, and delete Business Plan objectives and Business Plan actions
+  - *Refers to A4.1 in Specifications*
+As a Business Plan user, I want to create, modify, and delete any team / departmental goals
+  - *Refers to A4.2 in Specifications*
+
+As an Administrator, I want to create, modify, and delete Business Plan objectives and Business Plan actions
+  - *Refers to A5.1 in Specifications*
+As an Administrator, I want to create, modify, and delete any team / departmental goals
+  - *Refers to A5.2 in Specifications*
+As an Administrator, I want to create, modify, and delete users and groups
+  - *Refers to A5.3 in Specifications*
+
+As any user, I want to be able to log into my account.
   - *Refers to B1 in Specifications*
-7. As a user, I want to view a timeline for upcoming actions.
+As any user, I want to view a timeline for upcoming actions.
   - *Refers to C2 in Specifications*
-8. As a user, I want to search for keywords quickly.
+As any user, I want to search for keywords quickly.
   - *Refers to C3 in Specifications*
-9. As a user, I want to know when due dates are upcoming for recent actions.
+As any user, I want to know when due dates are upcoming for recent actions.
   - *Refers to C4 in Specifications*
-10. As a Team Lead/Mananger or Business Plan Manager, I want to be able to edit and add new actions to the business plan including new fields.
-  - *Refers to D1 and D9 in Specifications*
-11. As a user, I want to view everyone that is involved in the completion of an action.
+As any user, I want to view everyone that is involved in the completion of an action.
   - *Refers to D5 in Specifications*
-12. As a user, I want to view the current status of an action.
+As any user, I want to view the current status of an action.
   - *Refers to D6 in Specifications*
-13. As a user, I want to know the requirements for an action.
+As any user, I want to know the requirements for an action.
   - *Refers to D7 in Specifications*
